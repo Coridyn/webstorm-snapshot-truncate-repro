@@ -11048,12 +11048,5 @@ exports[`webstorm snapshot truncation tests > json snapshot shows diff 1`] = `
     "name": "Sunil Kapoor",
     "version": 8.04,
   },
-  {
-    "bio": "Etiam congue dignissim volutpat. Phasellus tincidunt sollicitudin posuere. Phasellus tincidunt sollicitudin posuere. Nam tristique feugiat est vitae mollis.",
-    "id": "XU7BX2F8M5PVZ1EF",
-    "language": "isiZulu",
-    "name": "Zamokuhle Zulu",
-    "version": 8.39,
-  },
 ]
 `;
